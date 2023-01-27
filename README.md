@@ -1,2 +1,2 @@
 # zomato.github.io
-a food ordering website
+A clone of zomato food ordering website
